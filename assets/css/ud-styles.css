@@ -2,11 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
 :root {
   --font: "Inter", sans-serif;
-  --body-color: #3b3f51; /* Darker body color */
-  --heading-color: #1c2230; /* Darker heading color */
-  --primary-color: #ff6f61; /* New primary color, a vibrant coral */
-  --white: #f4f4f9; /* Softer white */
+  --body-color: #2c3e50; /* Dark blue-grey for body text */
+  --heading-color: #1a252f; /* Almost black-blue for headings */
+  --primary-color: #16a085; /* Rich turquoise for primary color */
+  --white: #ecf0f1; /* Light grey for a soft background */
 }
+
 
 
 body {
